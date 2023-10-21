@@ -13,6 +13,6 @@
   text-transform: uppercase;
   font-weight: 700;
   font-size: 1.4rem;
-  padding: .5rem
+  padding: 0.5rem;
 }
 </style>
